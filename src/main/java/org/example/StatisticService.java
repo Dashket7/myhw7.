@@ -10,4 +10,4 @@ public class StatisticService {
         }
         return currentMax;
     }
-    }
+}
